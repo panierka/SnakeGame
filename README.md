@@ -18,4 +18,4 @@ Recreation of the cult classic game in Java Swing.
 | `R` | Restart (after defeat)|
 
 ## Screenshots
-![Gameplay](media\gameplay-screenshot.png)
+![Gameplay](media/gameplay-screenshot.png)
